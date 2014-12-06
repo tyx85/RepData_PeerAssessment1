@@ -90,6 +90,7 @@ the dataset.
 
 1. Make a histogram of the total number of steps taken each day
 
+
 2. Calculate and report the **mean** and **median** total number of steps taken per day
 
 
